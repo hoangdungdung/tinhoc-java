@@ -108,9 +108,17 @@
     <groupId>com.google.firebase</groupId>
     <artifactId>firebase-admin</artifactId>
     <version>5.3.1</version>
-    <scope>runtime</scope>
+ 
     
 </dependency>
+ 
+<!-- https://mvnrepository.com/artifact/com.google.firebase/firebase-database -->
+<!-- https://mvnrepository.com/artifact/com.google.firebase/firebase-database -->
+<!-- https://mvnrepository.com/artifact/com.google.firebase/firebase-database -->
+
+
+
+
  
 
 	<dependency>
